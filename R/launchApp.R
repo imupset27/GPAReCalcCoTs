@@ -1,4 +1,4 @@
-#' launches the GPred19 app
+#' launches the GPAReCalc app
 #'
 #' @export launchApp
 #'
